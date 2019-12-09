@@ -1,3 +1,5 @@
+[![Latest Stable Version](https://poser.pugx.org/deadsimple/vuelibrary/version)](https://packagist.org/packages/deadsimple/vuelibrary) [![Total Downloads](https://poser.pugx.org/deadsimple/vuelibrary/downloads)](https://packagist.org/packages/deadsimple/vuelibrary) [![License](https://poser.pugx.org/deadsimple/vuelibrary/license)](https://packagist.org/packages/deadsimple/vuelibrary)
+
 # Deadsimple VueJS Magento2 Composer Library
 
 This package allows you to use VueJs together with requirejs in your Magento2 setup straight out of the box
