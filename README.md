@@ -45,7 +45,7 @@ define([
 
 ### Version
 
-This library loads: `Vue.js v2.6.10`
+This library loads: `Vue.js v2.6.11`
 
 ### TODO
 - [ ] Create easier switch between production and development version of VueJS
